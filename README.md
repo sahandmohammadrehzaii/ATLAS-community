@@ -163,4 +163,4 @@ Once the server is running, visit `http://localhost:3000` to start using the app
 - [Prisma ORM documentation](https://www.prisma.io/docs/orm)
 - [Prisma Client API reference](https://www.prisma.io/docs/orm/prisma-client)
 - [Join our Discord community](https://discord.com/invite/prisma)
-- [Follow us on Twitter](https://twitter.com/prisma)
+
