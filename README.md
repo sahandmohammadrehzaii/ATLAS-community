@@ -158,9 +158,4 @@ bun run dev
 
 Once the server is running, visit `http://localhost:3000` to start using the app.
 
-## Next steps
-
-- [Prisma ORM documentation](https://www.prisma.io/docs/orm)
-- [Prisma Client API reference](https://www.prisma.io/docs/orm/prisma-client)
-- [Join our Discord community](https://discord.com/invite/prisma)
-
+## Next step
